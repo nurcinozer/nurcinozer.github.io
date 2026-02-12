@@ -22,8 +22,8 @@ title: Nurçin Özer
 email: nrcinozer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a Software Engineer. This site is my online space to share reflections on my life and interests.
-url: "https://nurcinozer.github.io"
-baseurl: "/nurcin-jekyll"
+url: "https://nurcin.dev"
+baseurl: ""
 twitter_username: nurcinozer
 github_username:  nurcinozer
 
