@@ -6,9 +6,7 @@ date_published: 2023-12-16T20:03:02.000Z
 date_updated: 2023-12-17T10:31:40.000Z
 ---
 
-![](../assets/images/about.jpeg)
-
-My name is **Nurçin Özer**, and I’m a Software Engineer at [**Kajabi**](https://kajabi.com/), my role involves helping to build a more efficient and user-friendly software experience.
+My name is **Nurçin Özer**, and I’m a Mobile Engineer at [**Sezzle**](https://sezzle.com/), my role involves helping to build a more efficient and user-friendly software experience.
 
 I'm curious about how software is created, from idea to the final product. That's why I'm learning to understand the entire product-building process.
 
